@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bonnie-and-clydes.netlify.app/sitemap.xml
